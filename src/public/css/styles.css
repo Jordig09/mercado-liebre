@@ -279,6 +279,10 @@ footer {
   color: #0022aa;
 }
 
+footer > p {
+  text-align: center;
+}
+
 @media (min-width: 361px) {
   /** Header **/
 
